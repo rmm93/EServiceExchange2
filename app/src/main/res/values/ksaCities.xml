@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_array">
+        <item>Riyadh</item>
+        <item>Jeddah</item>
+        <item>Dammam</item>
+        <item>Khobar</item>
+        <item>Dhahran</item>
+        <item>Ahsa</item>
+        <item>Qatif</item>
+        <item>Jubail</item>
+        <item>Taif</item>
+        <item>Tabouk</item>
+        <item>Abha</item>
+        <item>Baha</item>
+        <item>Jizan</item>
+        <item>Najran</item>
+        <item>Hail</item>
+        <item>Makkah</item>
+        <item>Madinah</item>
+        <item>Qaseem</item>
+        <item>Jouf</item>
+        <item>Yanbu</item>
+    </string-array>
+</resources>

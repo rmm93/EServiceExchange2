@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search_btn"
+        android:icon="@mipmap/search_action"
+        android:title="@string/search_action"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/signin_act"
+        android:title="@string/sign_in_action" />
+    <item
+        android:id="@+id/signup_act"
+        android:title="@string/sign_up_action" />
+</menu>

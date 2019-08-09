@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EServiceExchange</string>
+    <string name="search_action">Search</string>
+    <string name="sign_in_action">Sign In</string>
+    <string name="sign_up_action">Sign Up</string>
+    <string name="sign_out_action">Sign Out</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="bottom_menu_home">home</string>
+    <string name="bottom_menu_notification">notification</string>
+    <string name="bottom_menu_account">user account</string>
+</resources>
